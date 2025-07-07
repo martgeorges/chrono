@@ -1,4 +1,4 @@
-<h1>CHRONO in HTML/CSS and JavaScript</h1>
+<h1>CHRONO/TIMER in HTML/CSS and JavaScript</h1>
 
 Tried to find a solution during my workouts to not have to restart my stopwatch every repetition, and to learn JavaScript as well. <br>
 
